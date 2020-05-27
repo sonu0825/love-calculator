@@ -1,2 +1,2 @@
 # love-calculator
-Check the love percentage og two lovers
+Check the love percentage of two lovers
